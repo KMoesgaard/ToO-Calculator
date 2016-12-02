@@ -1,0 +1,33 @@
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ToO Calculator.exe.config
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ToO Calculator.exe.manifest
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ToO Calculator.application
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ToO Calculator.exe
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ToO Calculator.pdb
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ToO Calculator.csproj.GenerateResource.Cache
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ToO Calculator.TrustInfo.xml
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ToO Calculator.exe.manifest
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ToO Calculator.application
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ToO Calculator.exe
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ToO Calculator.pdb
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\bin\Debug\ToO Calculator.exe.config
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\ToO Calculator.exe
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\ToO Calculator.pdb
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\bin\Debug\ToO Calculator.exe.manifest
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\bin\Debug\ToO Calculator.application
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\bin\Debug\ToO Calculator.exe
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\bin\Debug\ToO Calculator.pdb
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\ToO Calculator.csproj.GenerateResource.Cache
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\ToO Calculator.TrustInfo.xml
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\ToO Calculator.exe.manifest
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\ToO Calculator.application
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\TooCalculator.PrimaryWindow.resources
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\TooCalculator.WarningWindow.resources
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\TooCalculator.Properties.Resources.resources
