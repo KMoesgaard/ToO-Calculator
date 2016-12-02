@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ToO Calculator.exe" size="448560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ToO Calculator.exe" size="447024">
       <assemblyIdentity name="ToO Calculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZubE3cToA3qEaRbm8TuWp+Vp8d0gv2OuHH3iKuiYaBs=</dsig:DigestValue>
+        <dsig:DigestValue>h6+H/lWSRNz+6s82ki09iMnTVVsnET6qA2uULT/CiQQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

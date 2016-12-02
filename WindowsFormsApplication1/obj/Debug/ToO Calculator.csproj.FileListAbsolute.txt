@@ -31,3 +31,4 @@ C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator
 C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\TooCalculator.PrimaryWindow.resources
 C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\TooCalculator.WarningWindow.resources
 C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\TooCalculator.Properties.Resources.resources
+C:\Users\Kristian Moesgaard\Documents\Visual Studio 2015\Projects\ToO Calculator\WindowsFormsApplication1\obj\Debug\ToO Calculator.csprojResolveAssemblyReference.cache

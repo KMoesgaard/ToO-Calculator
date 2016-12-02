@@ -9,8 +9,7 @@ namespace TooCalculator
 {
     static class Program
     {
-
-
+        //Uses last active character if 0!
         static int characternr = 0;
         static string membershipId;
         static string characterId;
@@ -151,7 +150,6 @@ namespace TooCalculator
                             case "671679327":
                                 className = "Hunter";
                                 break;
-
                         }
 
                         //instansiate new object of player class with the retrived data, which is then added to a list
