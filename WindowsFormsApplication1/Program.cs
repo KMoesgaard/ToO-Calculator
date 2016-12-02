@@ -43,7 +43,7 @@ namespace TooCalculator
             using (var client = new HttpClient())
             {
                 // Input Your own Api Key Here
-                client.DefaultRequestHeaders.Add("X-API-Key", "360bd39da19d4e3e9dd321cde7204bfb");
+                client.DefaultRequestHeaders.Add("X-API-Key", "INPUT YOUR API KEY HERE!!");
 
                 //Get Membership ID
                 var response = client.GetAsync("https://www.bungie.net/platform/Destiny/2/Stats/GetMembershipIdByDisplayName/" + accountName).Result;
